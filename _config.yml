@@ -7,8 +7,10 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Helga Ruppe
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  avatar: 
+  bio: Helga’s academic career began at Western many moons ago when she took an undergraduate degree in German Language and Literature, supplemented by Latin, Ancient Greek, and Old English.  She then went to Toronto to study at the Centre for Medieval Studies at the University of Toronto, where she earned an MA in Medieval Studies before life interfered.  In 2012, Helga returned to Western for a second undergraduate degree, this one in Visual Arts and Medieval Studies.  Fascinated by medieval gardens and botanical texts, Helga seeks to investigate how the perception of this lore manifests in contemporary medievalizing fantasy and historical novels, and what that tells us about modern society.
+Helga lives with her husband, four children, and two cats—not to mention foxes, groundhogs, hares, and deer—in two acres of wilderness which she dreams of transforming into a medieval pleasure garden.
+
   email: HRuppe@UWO.ca
   # Do not include the @ symbol in your Twitter username
   twitter: HelgaRuppe
