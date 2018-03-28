@@ -6,14 +6,14 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Helga Ruppe
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: HRuppe@UWO.ca
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: HelgaRuppe
   linkedin: #username
-  github: #username
+  github: HelgaRuppe
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -22,7 +22,7 @@ owner:
     analytics:
     verify:
     scholar: #id
-  facebook: #username
+  facebook: Helga Ruppe
   instagram: #username
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
