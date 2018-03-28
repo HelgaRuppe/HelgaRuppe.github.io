@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: Helga Ruppe
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -22,7 +22,7 @@ owner:
     analytics:
     verify:
     scholar: #id
-  facebook: Helga Ruppe
+  facebook: HelgaRuppe
   instagram: #username
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
